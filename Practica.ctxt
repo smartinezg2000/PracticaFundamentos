@@ -2,6 +2,6 @@
 comment0.target=Practica
 comment1.params=big\ small
 comment1.target=Ubicacion\ matrices(int[][],\ int[][])
-comment2.params=x\ y\ big\ small
+comment2.params=ncolumna\ nfila\ big\ small
 comment2.target=boolean\ review(int,\ int,\ int[][],\ int[][])
 numComments=3

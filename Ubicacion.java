@@ -1,18 +1,18 @@
 
 public class Ubicacion
 {
-    private int x;
-    private int y;
+    private int ncolumna;
+    private int nfila;
 
-    public int getY(){
-        return y;
+    public int getColumna(){
+        return nfila;
     }
-    public int getX(){
-        return x;
+    public int getFila(){
+        return nfila;
     }
-    public void setCoordenadas(int x,int y){
-        this.x = x;
-        this.y = y;
+    public void setCoordenadas(int ncolumna,int nfila){
+        this.ncolumna = ncolumna;
+        this.nfila = nfila;
     }
 
 }
